@@ -27,8 +27,8 @@ El usuario escribe un mensaje en una interfaz amigable desarrollada con Streamli
 ### 1. 📦 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/nombre_del_proyecto.git
-cd nombre_del_proyecto
+git clone https://github.com/EAllaucaD/Clasificador_Mensajes.git
+cd Clasificador_Mensajes
 ```
 
 ### 2. 📦 Crear el entorno virtual (recomendado)
