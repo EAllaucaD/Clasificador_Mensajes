@@ -23,7 +23,7 @@ st.markdown("---")
 mensaje = st.text_area("**ESCRIBE TU MENSAJE AQUÍ:**", height=150)
 
 
-# Función para mostrar resultado con colores y emojis
+# Función para mostrar resultado 
 def mostrar_resultado(categoria: str):
     if categoria == "Urgente":
         st.markdown(f'<h2 style="color:#e03c3c;">🛑 Resultado: {categoria}</h2>', unsafe_allow_html=True)
